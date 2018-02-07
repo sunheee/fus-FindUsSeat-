@@ -12,4 +12,9 @@ public class StoreEventBean {
 	public Timestamp StoreEventBoardEndDate;
 	public int StoreEventBoardBlank1;
 	public int StoreEventBoardBlank2;
+	public int StoreEventBoardBlank2;
+	public int StoreEventBoardBlank2;
+	public int StoreEventBoardBlank2;
+	public int StoreEventBoardBlank2;
+	
 	}
